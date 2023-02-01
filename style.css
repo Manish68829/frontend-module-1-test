@@ -1,0 +1,18 @@
+tr a{
+    text-decoration: none;
+}
+
+
+@media only screen and (min-width: 700px) and (max-width: 700px){
+    .card-group{
+        display: flex;
+        flex-direction: column;
+    }
+    .card{
+        margin-top: 15px;
+    }
+
+    .tt{
+        margin-top: 25px;
+    }
+}
